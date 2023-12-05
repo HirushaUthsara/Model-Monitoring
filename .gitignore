@@ -1,0 +1,32 @@
+# Test datasets
+datasets/*
+
+# Python bytecode
+*.pyc
+
+# Temporary files
+*.swp
+*.swo
+*.aux
+
+# IDE settings
+.idea/*
+
+# Logs
+*.log
+
+# Database files
+db.sqlite3
+
+# Environments
+.venv/*
+
+# Ignore everything in .ipynb_checkpoints folder
+.ipynb_checkpoints/*
+
+# Local development credentials or API keys
+.env
+
+# Specific files to keep within ignored folders (e.g., README)
+!README.md
+!datasets/README.txt

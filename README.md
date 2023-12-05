@@ -3,6 +3,9 @@ Use Examples of Frouros: A Python library for drift detection in machine learnin
 
 https://github.com/IFCA-Advanced-Computing/frouros
 
+Add package details into the package-list.txt 
+    
+    conda env export > package-list.txt     
 
 Reinstall packages from an export file::
 
