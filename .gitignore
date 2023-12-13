@@ -1,5 +1,6 @@
 # Test datasets
 datasets/*
+evidently_ai/*
 
 # Python bytecode
 *.pyc
